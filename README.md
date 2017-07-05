@@ -50,3 +50,4 @@ Currently using version 2.2 of Pathogen
 * [fedorapeople.org/home/fedora/wwoods/public/vim-scripts.git](git://fedorapeople.org/home/fedora/wwoods/public_git/vim-scripts.git)
 * [github.com/cespare/vim-toml](https://github.com/cespare/vim-toml.git)
 * [github.com/scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter.git)
+* [github.com/pearofducks/ansible-vim](https://github.com/pearofducks/ansible-vim.git)
